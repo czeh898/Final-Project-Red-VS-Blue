@@ -1,4 +1,4 @@
-# Red-Team: Summary of Operations
+# Offensive Report (Red-Team): Summary of Operations
 
 ### Table of Contents
 - Exposed Services
