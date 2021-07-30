@@ -1,4 +1,4 @@
-# Read Team: Summary of Operations
+# Red-Team: Summary of Operations
 
 ### Table of Contents
 - Exposed Services
