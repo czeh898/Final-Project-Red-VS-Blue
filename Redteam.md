@@ -42,7 +42,7 @@ The Red Team was able to penetrate Target 1 and retrieve the following confident
     - Command: 
         - `$ wpscan --url http://192.168.1.110 --enumerate u`
 
-![WPScan results](/Images/nmap-scan-results.png "WPScan results")
+![WPScan results](/Images/wp-scan-users.png "WPScan results")
 
 - Targeting user Michael
     - Small manual Brute Force attack to guess/finds Michael’s password
