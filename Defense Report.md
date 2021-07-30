@@ -44,7 +44,7 @@ The following machines were identified on the network:
 
 **Network Diagram:**
 
-![Network Diagram](/Images/final-project-network-diagram.png.jpg "Network Diagram")
+![Network Diagram](/Images/final-project-network-diagram.png. "Network Diagram")
 
 ### Description of Targets
 
@@ -59,7 +59,7 @@ This scan identifies the services below as potential points of entry:
 - Port 22/TCP 	Open 	SSH	OpenSSH 6.7p1 Debian 5+deb8u4
 - Port 80/TCP 	Open 	HTTP	Apache httpd 2.4.10 (Debian)
 
-![Nmap Target 1 Ports](/Images/nmap-target1-ports.png "Nmap Target 1 Ports")
+![Nmap Target 1 Ports](/Images/nmap-target1-ports.png.jpg "Nmap Target 1 Ports")
 
 Traffic to these services should be carefully monitored. To this end, we have implemented the alerts below:
 
