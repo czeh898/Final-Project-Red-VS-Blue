@@ -44,7 +44,7 @@ The following machines were identified on the network:
 
 **Network Diagram:**
 
-![Network Diagram](/Images/final-project-network-diagram.png. "Network Diagram")
+![Network Diagram](/Images/final-project-network-diagram.png "Network Diagram")
 
 ### Description of Targets
 
